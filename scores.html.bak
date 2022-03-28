@@ -22,10 +22,10 @@
   const data = {
     labels: labels,
     datasets: [{
-      label: 'Match Wins!',
-      backgroundColor: '#87BAF9',
-      borderColor: '#87BAF9',
-      data: [2, 0, 1, 1, 1],
+      label: 'Achievement Points',
+      backgroundColor: '#F07557',
+      borderColor: '#F07557',
+      data: [16, 7, 9, 11, 4],
     }]
   };
 
