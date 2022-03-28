@@ -25,7 +25,7 @@
       label: 'Match Wins',
       backgroundColor: '#87BAF9',
       borderColor: '#87BAF9',
-      data: [2, 0, 1, 1, 1],
+      data: [1, 0, 0, 0, 1],
     }]
   };
 
